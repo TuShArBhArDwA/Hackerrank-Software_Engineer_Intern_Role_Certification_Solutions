@@ -1,6 +1,7 @@
 # HackerRank Software Engineer Intern Role Certification Solution
 ---
-![image](https://github.com/user-attachments/assets/114329d2-2d8d-4097-92f3-c45ea68bb28a)
+![image](https://github.com/user-attachments/assets/942fe89a-5682-4137-8c1a-2903663d3082)
+
 
 
 This repository contains solutions to the HackerRank Software Engineer Role Certification challenges. The solutions are designed for educational purposes and to help individuals prepare for technical interviews.
